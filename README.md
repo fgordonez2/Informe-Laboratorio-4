@@ -39,7 +39,7 @@
 
 
 
-## 6. CONCLUSIONES
+### 6. CONCLUSIONES
 
 *- 
 
@@ -49,7 +49,7 @@
 
 *- 
 
-## 7._ BIBLIOGRAFÍA
+### 7._ BIBLIOGRAFÍA
 
 Floyd, T. L. (2022). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
 

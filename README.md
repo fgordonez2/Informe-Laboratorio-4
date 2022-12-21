@@ -10,7 +10,7 @@
 
 ***General***
 
-*- 
+*- Comprobar experimentalmente el Teorema de superposición, mediante la simulación y análisis matemático del circuito esquematizado en la gía de laboratorio, para        determinar si cumple dicho teorema de forma anañítica y simulada.*
  
 ***Especificos*** 
 

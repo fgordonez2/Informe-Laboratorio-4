@@ -10,15 +10,15 @@
 
 ***General***
 
-*- Comprobar experimentalmente el Teorema de superposición, mediante la simulación y análisis matemático del circuito esquematizado en la guía de laboratorio, para        determinar si cumple dicho teorema de forma analítica y simulada.*
+*- Comprobar experimentalmente el Teorema de Superposición, mediante la simulación y análisis matemático del circuito esquematizado en la guía de laboratorio, para        determinar si cumple dicho teorema de forma analítica y simulada.*
  
 ***Especificos*** 
 
-*- 
+*- Resolver un circuito eléctrico mediante el teorema de superposición.*
 
-*- 
+*- Comprobar   los   resultados   obtenidos   teóricamente   mediante   una   simulación.*
 
-*-
+*- Consolidar el procedimiento de armado de circuitos eléctricos.*
 
 ### 2. MARCO TEÓRICO
 

@@ -14,9 +14,11 @@
 
 ***Especificos*** 
 
-*- Resolver un circuito eléctrico mediante el teorema de superposición.*
+*- Investigar como se aplica correctamente el teorema de superposición en un circuito.*
 
-*- Comprobar   los   resultados   obtenidos   teóricamente   mediante   una   simulación.*
+*- Aplicar el teorema de superposición en la resolucion del circuito dispuesto en la guía de laboratorio.*
+
+*- Comprobar   los   resultados   obtenidos   teóricamente   mediante   una   simulación en Tinkercad.*
 
 *- Consolidar el procedimiento de armado de circuitos eléctricos.*
 

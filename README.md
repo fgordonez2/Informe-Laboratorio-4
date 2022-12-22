@@ -123,13 +123,13 @@ Link del video en YouTube:
 
 ### 6. CONCLUSIONES
 
-*- 
+*- El teorema de superposición es un teorema muy utilizado en la resolución de problemas en circuitos eléctricos que cuentan con mas de una fuente de voltaje o corriente, que trata de reemplazar las fuentes por cortocircuitos y realizar una suma algebraica de las demás fuentes igualadas a cero.*
 
-*-
+*- La aplicación de este teorema en la resolución del circuito eléctrico para hallar tanto el voltaje A y la corriente X fue muy practica y rápida, ya que sin hacer mucho cálculo matemático o el uso de formulas se pudo hallar el valor respectivo a las interrogantes dadas por el ejercicio.*
 
-*-
+*- El comprobar los resultados teóricos obtenidos de la resolución y calculo del circuito con una simulación, resulta importante para asegurarnos de que lo hemos realizado de la manera correcta.*
 
-*- 
+*- Tanto el calculo realizado como el valor simulado fueron iguales, lo que nos da un indicio de que hemos aplicado el teorema de superposición de manera correcta, ya que con el porcentaje de error corroboramos que el valor simulado y teórico no hay ninguna diferencia.*
 
 ### 7._ BIBLIOGRAFÍA
 

@@ -117,9 +117,7 @@ Se realizó el calculo del porcentaje de error que se tuvo tanto en la medición
 
 ### 5. VIDEO
 
-Link del video en YouTube: 
-
-
+  - https://youtu.be/WkEQL0FNBqY
 
 ### 6. CONCLUSIONES
 
